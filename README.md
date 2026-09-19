@@ -1,2 +1,2 @@
-# Deskoo
-it will have a oled display. here will a animated eyes pet runs in the background. in the display we can also see the wheather,time,humidity type of details. also possible to see the live subscriber and viewers in youtube. it will also include stop watch. i will add games like Flappy Bird and Dragon Run games with buzzer sound.
+#Deskoo
+This Desk pet has an oled. it shows eye animation. if anyone touch it, it becomes happy. and it also has a buzzer.
